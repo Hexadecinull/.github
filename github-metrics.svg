@@ -117,14 +117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.8308034323771" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="159.8308034323771" y="0" width="84.03961216651761" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="243.87041559889474" y="0" width="54.14234552899327" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="298.012761127888" y="0" width="48.45031033897331" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="346.4630714668613" y="0" width="32.78091792961194" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="379.24398939647324" y="0" width="28.83675889275225" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="408.0807482892255" y="0" width="28.14742270935348" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="436.22817099857895" y="0" width="23.771829001421022" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="158.48097171830605" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="158.48097171830605" y="0" width="83.32986578907045" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="241.81083750737648" y="0" width="53.661679023106885" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="295.47251653048335" y="0" width="48.04112910451995" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="343.5136456350033" y="0" width="32.50407065307008" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="376.01771628807336" y="0" width="28.59322153419216" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="404.6109378222655" y="0" width="28.31042580277096" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="432.9213636250365" y="0" width="27.07863637496348" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -137,7 +137,7 @@
                             </div>
                             <small>
                                 <div>1.30 MB</div>
-                                <div>34.75%</div>
+                                <div>34.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -149,7 +149,7 @@
                             </div>
                             <small>
                                 <div>440 kB</div>
-                                <div>11.77%</div>
+                                <div>11.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -161,19 +161,19 @@
                             </div>
                             <small>
                                 <div>266 kB</div>
-                                <div>7.13%</div>
+                                <div>7.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Kotlin
                             </div>
                             <small>
-                                <div>228 kB</div>
-                                <div>6.12%</div>
+                                <div>232 kB</div>
+                                <div>6.15%</div>
                             </small>
                         </div>
                     </section>
@@ -187,7 +187,7 @@
                             </div>
                             <small>
                                 <div>683 kB</div>
-                                <div>18.27%</div>
+                                <div>18.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -199,7 +199,7 @@
                             </div>
                             <small>
                                 <div>393 kB</div>
-                                <div>10.53%</div>
+                                <div>10.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -211,26 +211,26 @@
                             </div>
                             <small>
                                 <div>234 kB</div>
-                                <div>6.27%</div>
+                                <div>6.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Kotlin
+                                C++
                             </div>
                             <small>
-                                <div>193 kB</div>
-                                <div>5.17%</div>
+                                <div>222 kB</div>
+                                <div>5.89%</div>
                             </small>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Jul 2026, 19:43:01 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jul 2026, 04:34:24 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
